@@ -6,5 +6,5 @@
 ## 效果展示
 
 <center class="half">
-    <img src="https://i.loli.net/2020/06/30/1ATauctfMq7V5Dg.png" width="300"/>
+    <img src="https://i.loli.net/2020/06/30/wxfYXjE8nBHDQiK.png" width="300"/>
 </center>
